@@ -1,10 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    // images: {
-    //     domains: [
-    //         ''
-    //     ]
-    // }
+  images: {
+    domains: ['mqmzxecylebzwoxoruyi.supabase.co'],
+  },
 };
 
 module.exports = nextConfig;
